@@ -1,0 +1,51 @@
+fire-base for real time data bases , authentication , 
+netlify   
+
+
+git and git-hub
+
+ 
+gitlab 
+bit bucket 
+
+
+github
+--> used to store the data and manage the data
+--> one type of cloud
+
+
+git 
+--> use to track the code in git-hub
+--> version controller 
+
+
+install git-hub 
+or 
+command prompt 
+or 
+vs-code 
+
+step 1:- create account in GitHub
+step 2:- create repo in a GitHub
+	https://github.com/Mohanjee/FSD-Training-.git
+step 3:- open vs code and open terminal in vs code
+step 4:- initialize git in a terminal 
+		git init 
+step 5:- configure user - name and email to GitHub
+
+git config --global username "Mohanjee25"
+git config --global user-gmail "mohanjeenarise17@gmail.com"
+
+step 6:- add remote url to local repo 
+	git remote add origin https://github.com/Mohanjee/FSD-Training-.git
+	
+
+convert untracked files to tracked files 
+
+gid add:
+git commit -m "my new Project"
+
+to push to GitHub
+
+git push -u origin master/main
+
