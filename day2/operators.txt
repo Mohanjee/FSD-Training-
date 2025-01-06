@@ -1,0 +1,55 @@
+Operators 
+==========
+It is a predefined symbol used to perform specific operation
+i . Arithmetic operators : +,-,*,/,++,--
+
+increment
+=========== 
+post-increment
+let a = 10;
+console.log(a++); // 10
+console.log(a++); // 10
+
+pre-increment
+let a = 10;
+console.log(a) // 10
+console.log(++a); // 11
+
+Decement 
+=========
+post-decrement
+let a = 10;
+console.log(a)//10
+console.log(a--); // 10
+
+pre-decrement
+==============
+let a = 10;
+console.log(a) // 10
+console.log(--a); // 9
+
+ii . Assignment operators (shot-hand): +=,-=,*=,/+,&= 
+let m = 10
+console.log(m = m+10)
+console.log(m += 10)
+
+iii . Relational operators : ==,!=,>,<,>=,<=,===
+
+console.log(5 == 5)//true
+console.log(5 == "5")//true
+
+console.log(5 === 5)//true
+console.log(5 === "5") //false
+
+
+iv . Logical operators : &&,||,!
+AND (&&)
+OR (||)
+NOT (!)
+
+v . Terenay operator :
+    -->three operands
+        syntax:-
+        (condition) ? true-statement :false-statement
+
+
