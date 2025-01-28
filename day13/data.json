@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "mohan",
+        "id" : 1,
+        "designation" : "developer"
+    },
+    {
+        "name" : "bharath",
+        "id" : 2,
+        "designation" : "tester"
+    },
+    {
+        "name" : "vamsi",
+        "id" : 3,
+        "designation" : "devops"
+    },
+    {
+        "name" : "Yashwanth",
+        "id" : 4,
+        "designation" : "tester"
+    }
+]

@@ -1,0 +1,28 @@
+DOM
+=======
+
+it is an object
+api provided by window  
+root element is document
+dom is having life-span page reloads
+
+-->used to create , delete and update an element and it is used to provide style for an element
+
+BOM( browser object model) 
+    ==> window --- root element
+        ->screen
+        ->navigator
+        ->navigation
+        ->history
+        ->storage
+        ->fetch
+        ->DOM (document object model)
+DOM
+====
+--> document <====> root-element 
+    ->html
+        ->head
+            ->meta
+            ->title
+        ->body
+            ->all tags

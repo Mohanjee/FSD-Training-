@@ -1,0 +1,24 @@
+functions in javascript 
+
+functions are first citizens in javascript
+functions are objects in javascript
+
+Types of function in javascript
+
+i. function declaration statement || pure function || named function
+ii. function expression 
+iii. higher order function , call back function 
+iv. arrow function
+v . nested function
+vi. iife (immediately invoked function expression)
+
+
+function declaration statement
+
+set of instructions or block of code used to perform specific task 
+syntax :-
+    function fun-name(parameters,.......){
+
+    }
+    fun-name(arguments,.......)
+

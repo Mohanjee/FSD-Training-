@@ -1,0 +1,43 @@
+for-loop
+
+syntax :-
+
+for( initilization ; condition;increment/decrement){
+    statement
+}
+
+eg:-
+for(let i=0;i<=5;i++){
+    console.log(i)
+}
+// output :- 1 2 3 4 5
+
+while - loop
+--> it will iterates the statement until condition becomes false
+
+while(condition){
+    statement
+}
+
+let n = 1;
+while(n <= 5){
+    console.log(n++);
+}
+
+
+do-while loop
+--> it iterates set of instruction then it will checks condition
+--> if condition is false then it will terminate the loop
+--> if condition is true then it will execute the loop again
+
+syntax :-
+do{
+    statement
+}while(condition)
+
+eg:-
+let m = 1;
+
+do{
+    console.log(m++);
+}while(m <= 5)
